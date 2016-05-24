@@ -11,8 +11,7 @@ Def: JDK5.0, too old
 
 ### 1.2 Improve
 
-1. <Refactoring
-
+1.  Refactoring
 Read when you have time
 Combine with practice
 
@@ -23,11 +22,11 @@ Combine with practice
 very classic
 which Spring sprang from
 
-1. expert one-on-one J2EE Development without EJB 中文版
+1.  expert one-on-one J2EE Development without EJB 中文版
 requires experience
 
 1. 《编码：隐匿在计算机软硬件背后的语言》
-open your eye
+wider 
 
 1. 《Patterns of Enterprise Application Architecture / 企业应用架构模式》
 
