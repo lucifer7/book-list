@@ -76,5 +76,6 @@ what matters is people, not tech
 1. 《Unix编程艺术》
 useful, regardless of your os
 
-
+1. 《数学之美》
+读了“数学之美”，才发现大学时学的数学知识，比如马尔可夫链、矩阵计算，甚至余弦函数原来都如此亲切，并且栩栩如生，才发现自然语言和信息处理这么有趣。
 
