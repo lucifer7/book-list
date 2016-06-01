@@ -16,6 +16,8 @@ Read when you have time
 Combine with practice
 
 1. 《Effective Java 中文版》
+ 
+1. Java程序性能优化  让你的Java程序更快、更稳定
 
 ### 1.3 Architect
 1. 《Expert One-on-One J2EE Design and Development
