@@ -11,23 +11,26 @@ Def: JDK5.0, too old
 
 ### 1.2 Improve
 
-1. <Refactoring
-
+1.  Refactoring
 Read when you have time
 Combine with practice
 
 1. 《Effective Java 中文版》
+ 
+1. Java程序性能优化  让你的Java程序更快、更稳定
+
+1. Concurrent Programming in Java™: Design Principles and Pattern, 2nd Edition 2nd Edition
 
 ### 1.3 Architect
 1. 《Expert One-on-One J2EE Design and Development
 very classic
 which Spring sprang from
 
-1. expert one-on-one J2EE Development without EJB 中文版
+1.  expert one-on-one J2EE Development without EJB 中文版
 requires experience
 
 1. 《编码：隐匿在计算机软硬件背后的语言》
-open your eye
+wider 
 
 1. 《Patterns of Enterprise Application Architecture / 企业应用架构模式》
 
@@ -77,5 +80,8 @@ what matters is people, not tech
 1. 《Unix编程艺术》
 useful, regardless of your os
 
+1. 《数学之美》
+读了“数学之美”，才发现大学时学的数学知识，比如马尔可夫链、矩阵计算，甚至余弦函数原来都如此亲切，并且栩栩如生，才发现自然语言和信息处理这么有趣。
 
-
+1. 《编码的奥秘》
+Charles Petzold用常见的对象和诸如布莱叶育文、摩尔斯电码之类大家熟悉的语言系统，为那些曾经想知道计算机和其他智能机器内部“生命”奥秘的人们编排了一个生动的叙述。
